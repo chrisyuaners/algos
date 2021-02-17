@@ -1,3 +1,3 @@
 # algos
 
-a repo for algorithm implementations# algos
+a repo for algorithm implementations
