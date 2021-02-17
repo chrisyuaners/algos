@@ -33,4 +33,5 @@ const nestedGroupBy = (data, keys) => {
     return groupedData;
 };
 
+//  copy entire code and paste in console to see results :)
 console.log(nestedGroupBy(people, groups));
